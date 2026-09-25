@@ -1,6 +1,6 @@
 {
   "name": "flitiq-mcp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "FlitIQ MCP server — FMCSA carrier intelligence tools for Claude. Pro/Team subscribers only.",
   "keywords": [
     "mcp",
@@ -15,13 +15,13 @@
   "homepage": "https://flitiq.com",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/smartlink-basics/flitiq-mcp.git"
+    "url": "git+https://github.com/alsermeno/flitiq-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/smartlink-basics/flitiq-mcp/issues",
+    "url": "https://github.com/alsermeno/flitiq-mcp/issues",
     "email": "support@flitiq.com"
   },
-  "author": "SmartLink Basics, LLC <support@flitiq.com> (https://github.com/smartlink-basics)",
+  "author": "SmartLink Basics, LLC <support@flitiq.com> (https://flitiq.com)",
   "license": "MIT",
   "icon": "assets/icon.png",
   "type": "module",

@@ -26,6 +26,14 @@ Categories (drop the ones you don't use):
 ### Security
 -->
 
+## [0.1.5] - 2026-09-25
+
+### Changed
+- The repository moved to `github.com/alsermeno/flitiq-mcp`. The documentation,
+  support and repository links in `manifest.json`, `package.json`, `mcp.json` and
+  the README point there now, and the author URL is `https://flitiq.com`.
+  The old address redirects. No tool or behaviour changes.
+
 ## [0.1.4] - 2026-06-20
 
 ### Added
