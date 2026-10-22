@@ -26,6 +26,14 @@ Categories (drop the ones you don't use):
 ### Security
 -->
 
+## [0.1.6] - 2026-10-21
+
+### Security
+- The MCP SDK is updated to 1.32.1 (from 1.29.0) for the October 2026
+  advisories. `npm audit fix` updates the SDK's own dependencies, including
+  `proxy-addr`, `hono`, `fast-uri`, `ip-address` and `qs`. `npm audit` now
+  reports 0 vulnerabilities. No tool or behaviour changes.
+
 ## [0.1.5] - 2026-09-25
 
 ### Changed
