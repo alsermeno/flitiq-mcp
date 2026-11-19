@@ -9,3 +9,8 @@ dist/
 .vscode/
 *.tsbuildinfo
 *.mcpb
+
+# Local secrets: never commit (added 2026-11-19)
+.env.*
+.dev.vars
+.dev.vars.*
