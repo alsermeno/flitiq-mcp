@@ -14,3 +14,6 @@ dist/
 .env.*
 .dev.vars
 .dev.vars.*
+
+# Working notes kept out of git (2026-11-19)
+/anthropic-rereview-reply.md
